@@ -7,6 +7,6 @@ To run our visualization simply download our repository. The Marvel API cannot f
 
 If you are curious on instructions on how to properly utilize our visualization view the about the page when running our program.
 
-Sincerely you comic fanatics,
+Sincerely your comic fanatics,
 
 -Edwin Ramirez and Nikola Panayotov
