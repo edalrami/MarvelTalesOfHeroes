@@ -4,6 +4,7 @@
   "description": "An Interactive Timeline Visualization of Marvel's Popular Heroes",
   "main": "app.js",
   "scripts": {
+    "start": "node app.js",
     "test": "node app.js"
   },
   "repository": {
