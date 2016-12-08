@@ -196,10 +196,9 @@ h1{
 
 #storyline{
     background-color: white;
-    position:absolute;
-    left:490px;
     top: 175px;
-    width: 850px;
+    max-width: 850px;
+    margin: auto;
     height: auto;
     padding: 10px;
     

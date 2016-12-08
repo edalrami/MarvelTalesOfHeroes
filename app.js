@@ -1,12 +1,8 @@
 const express = require("express")
-// const session = require("express-session")
 const dotenv = require("dotenv")
-// const bodyParser = require("body-parser")
 const expressValidator = require("express-validator")
-// const errorHandler = require("error-handler")
 const ejs = require("ejs")
 
-// dotenv.load({path: '.env'})
 
 const app = express()
 
@@ -21,8 +17,6 @@ app.set('view engine', 'ejs')
 app.enable('trust proxy')
 app.set('trust proxy', 1)
 
-// app.use(bodyParser.json());
-// app.use(bodyParser.urlencoded({ extended: true }));
 app.use(expressValidator());
 app.use(express.static('./public'))
 
